@@ -472,7 +472,7 @@ label {
 .content-section {
   position: relative;
   z-index: 10;
-  padding:80px 0 90px 0;
+  padding:60px 0 120px 0;
 }
 .content-section h3 {
   text-transform: uppercase;
